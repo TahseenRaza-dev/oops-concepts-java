@@ -115,5 +115,4 @@ Same pattern for all files — cd into the folder, compile, run.
 - Why it matters → flexible, extensible code — add new subclasses without touching existing logic (Open/Closed Principle)
 
 ---
-
-*Explored by Ayan | Accenture Internship 2026*
+ Accenture Internship 2026*
